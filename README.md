@@ -82,7 +82,7 @@
     <img src="https://github.com/amnesia314/Amnesia/blob/main/window.png" style="width: 100%;">
   </div>
   <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/amnesia314/Amnesia/blob/main/screen.png" style="width: 100%;">
+    <img src="https://github.com/amnesia314/Amnesia/blob/main/screens.png" style="width: 100%;">
   </div>
 </div>
 
