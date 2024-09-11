@@ -117,6 +117,7 @@
 ### For Android
 
 - **Operating System:** Android 5 or higher.
+- **Internet Connection:** An active connection is required.
   
 > **Note:** Amnesia Builder is unstable on Android 13 and higher.
 
