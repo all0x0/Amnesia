@@ -70,7 +70,7 @@
 | ✅ Steals Roblox Cookies | 💎 Steals Startup List | |
 | ✅ Steals Growtopia Session | 💎 Keylogger | |
 | ✅ Steals IP Information | 💎 Clipper | |
-| ✅ Steals System Info | | 💎 Android Support |
+| ✅ Steals System Info | 💎 Android Support | |
 | ✅ Steals Saved Wifi Passwords | | |
 | ✅ Steals Common Files | | |
 | ✅ Captures Screenshot | | |
