@@ -31,7 +31,7 @@
 
 <p align="center">
   💻<a href="https://raw.githubusercontent.com/amnesia314/Amnesia/main/Amnesia.zip" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download for Windows</a>💻 |
-  📱<a href="https://raw.githubusercontent.com/amnesia314/Amnesia/main/Amnesia.apk" style="color: white; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android (BETA)</a>📱
+  📱<a href="https://raw.githubusercontent.com/amnesia314/Amnesia/main/AmnesiaBETA.apk" style="color: white; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android (BETA)</a>📱
 </p>
 
 <p align="center">
